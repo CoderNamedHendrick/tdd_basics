@@ -1,5 +1,5 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:tdd_tut/user_model.dart';
 
 void main() {
   test('test 1', () {
